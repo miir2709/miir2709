@@ -8,6 +8,9 @@
 	<!-- <a href="https://www.instagram.com/shah_shubh_/"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?
 	logo=instagram&logoColor=white&link=https://www.instagram.com/shah_shubh_/" alt="Instagram" /></a> -->
 <!-- 	<a href="https://www.instagram.com/shah_shubh_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> -->
+
+
+
 	<a href="https://miir2709.github.io/"><img src="https://img.shields.io/badge/-Portfolio%20Website-%233781da?&style=for-the-badge" alt="Portfolio" /></a>
     <!-- <a href="mailto:mehta.mihir2709@gmail.com"><img src="https://img.shields.io/badge/-shahshubh1010@gmail.com-c14438?
 	style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehta.mihir2709@gmail.com" alt="Gmail" /></a> -->
@@ -16,7 +19,7 @@
 </p>
 
 
-### <img src="https://raw.githubusercontent.com/miir2709/miir2709/master/assets/Hi.gif" width="29px"> Hi there 
+### Hi there 
 Hello, I am a curios Software Engineer aiming to deliver high-impact projects which I can proudly present to the dev community. <br>
 Figuring It Out.
 
