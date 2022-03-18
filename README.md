@@ -16,12 +16,13 @@
 </p>
 
 
-### <img src="https://raw.githubusercontent.com/shahshubh/shahshubh/master/assets/Hi.gif" width="29px"> Hi there 
-Hello, I am a curios Software Engineer aiming to deliver high-impact projects which I can proudly present to the dev community. Figuring It Out.
+### <img src="https://raw.githubusercontent.com/miir2709/miir2709/master/assets/Hi.gif" width="29px"> Hi there 
+Hello, I am a curios Software Engineer aiming to deliver high-impact projects which I can proudly present to the dev community. <br>
+Figuring It Out.
 
 
 - I’m currently working on [Applicant Tracking System](https://github.com/miir2709/Applicant-Tracking-System).
-- I’m currently solving [Leetcode](https://leetcode.com/user9783l/).
+- I’m currently solving graph problems on [Leetcode](https://leetcode.com/user9783l/).
 - Wokring with [Zeeve Inc](https://www.zeeve.io/) as a [Github Extern](https://docs.google.com/document/d/1J21ii8xbloqUFMiGdx4DUHgbLAvmUt-Mob4vNU4SWHY/edit?usp=sharing).
 -  I’m looking to collaborate on private-blockchain related projects. 
 
