@@ -1,4 +1,4 @@
-![Intro](https://raw.githubusercontent.com/miir2709/miir2709/master/assets/Mihir.jpeg) 	
+![Intro](https://raw.githubusercontent.com/miir2709/miir2709/master/assets/ynwa1.jpg) 	
 
 
 <p align="center">
@@ -8,9 +8,10 @@
 	<a href="mailto:mehta.mihir2709@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-mehta.mihir2709@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
+### Figuring It Out.
 
 Hello, I am a curios Software Engineering student aiming to deliver high-impact projects which I can proudly present to the dev community. My goal is to develop applications as simple, but as impactful as [Safe Eyes](https://computingforgeeks.com/install-use-safeeyes-ubuntu-fedora-arch-debian/), which many people will be able to use everyday. <br><br>
-Figuring It Out.
+
 
 - I’m currently working on my final year project- [Applicant Tracking System](https://github.com/miir2709/Applicant-Tracking-System).
 - I’m solving graph problems on [Leetcode](https://leetcode.com/user9783l/) to improve my DSA skills.
