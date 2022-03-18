@@ -17,19 +17,14 @@
 
 
 ### <img src="https://raw.githubusercontent.com/shahshubh/shahshubh/master/assets/Hi.gif" width="29px"> Hi there 
-I am a final year student in Computer Science and Engineering (CSE) who loves to transform ideas into reality using code.
+Hello, I am a curios Software Engineer aiming to deliver high-impact projects which I can proudly present to the dev community. Figuring It Out.
 
 
-- 🔭 I’m currently working on [yBully](https://github.com/yBullyy).
-- 🌱 I’m currently learning competitive programming.
-- ⚡ Available for Freelance projects/internship opportunities.
-- 😄 Pronouns: He/Him 
+- I’m currently working on [Applicant Tracking System](https://github.com/miir2709/Applicant-Tracking-System).
+- I’m currently solving [Leetcode](https://leetcode.com/user9783l/).
+- Wokring with [Zeeve Inc](https://www.zeeve.io/) as a [Github Extern](https://docs.google.com/document/d/1J21ii8xbloqUFMiGdx4DUHgbLAvmUt-Mob4vNU4SWHY/edit?usp=sharing).
+-  I’m looking to collaborate on private-blockchain related projects. 
 
-
-### Spotify Playing 🎧
-[<img src="https://novatorem-chi.vercel.app/api/spotify-playing" alt="Shubh Spotify Playing" width="350" />](https://open.spotify.com/user/1avm481k8o6k84i73988n34b7?si=iuYsBSQURlSjXBgtfFXyEQ)
-
----
 
 <br />
 
